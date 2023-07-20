@@ -1,0 +1,15 @@
+npm init
+tsc --init
+npm install express mustache-express dotenv
+ npm install --save-dev @types/express @types/mustache-express @types/node
+ npm install -D @types/express @types/node @types/sequelize @types/validator
+
+ Site para testar api:
+ resttesttest.com
+
+ npm install cors
+  npm install -D @types/cors
+  npm i sequelize
+
+para ver o erro da requisição:
+developer.mozila.org/pt-BR/docs/Web/HTTP/Status
