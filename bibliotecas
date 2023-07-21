@@ -13,3 +13,7 @@ npm install express mustache-express dotenv
 
 para ver o erro da requisição:
 developer.mozila.org/pt-BR/docs/Web/HTTP/Status
+
+Upload de arquivos e manipulações de imagens:
+npm install multer
+ npm install -D @types/multer
